@@ -17,7 +17,6 @@
     <img align="left" src="https://img.icons8.com/color/48/000000/delphi-ide.png" alt="Delphi" height="35px">
     <img align="left" src="https://img.icons8.com/officel/40/000000/sql.png" alt="SQL" height="35px">
     <img align="left" src="https://img.icons8.com/ios-filled/50/4a90e2/react-native.png" alt="React" height="35px">
-    <img align="left" src="https://img.icons8.com/windows/32/26e07f/node-js.png" alt="NodeJS" height="35px">
 </section>
 <section>
     <br>
